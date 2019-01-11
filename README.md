@@ -1,5 +1,6 @@
 # BMI-Calculator
-Kotlin으로 구현한 BMI 계산기 APP
+Kotlin으로 구현한 BMI 계산기 APP<br>
+Intent를 이용한 화면전환과 데이터 전달, SharedPreference을 이용한 앱 종료후 재시작시 데이터 저장.
 
 ![s1](https://user-images.githubusercontent.com/46013451/51032489-97336c80-15e3-11e9-903f-3a9e5af9f9c5.PNG)<br>
 <첫화면>
